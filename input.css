@@ -1,0 +1,11 @@
+@tailwind utilities;
+
+@font-face {
+  font-family: 'BeVietnamBold';
+  src: local('BeVietnam'), url('src/assets/fonts/BeVietnam/BeVietnamPro-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BeVietnamRegular';
+  src: local('BeVietnam'), url('src/assets/fonts/BeVietnam/BeVietnamPro-Regular.ttf') format('truetype');
+}

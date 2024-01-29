@@ -1,0 +1,3 @@
+Name:FirebaseConsoleAPNS
+Key ID:9R2C64544D
+Services:Apple Push Notifications service (APNs)
